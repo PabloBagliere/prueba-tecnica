@@ -52,4 +52,4 @@ Gráfico de evolución histórica:
 - La prueba tiene una duración de 1 hora. No es necesario completar todas las entregas.
 - Se proporcionará un proyecto configurado con ts, React, Vite y Tailwind, pero puedes optar por no usarlo si lo deseas.
 
-Inspieracion de diseño: [Dolarito](https://www.dolarito.ar/)
+Inspiración de diseño: [Dolarito](https://www.dolarito.ar/)
